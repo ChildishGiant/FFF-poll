@@ -61,7 +61,7 @@ p {
 	top: 5px;
 	right: 5px;
 	font-family: xkcd;
-	position: absolute;
+	position: fixed;
 	color: #fff;
 }
 
